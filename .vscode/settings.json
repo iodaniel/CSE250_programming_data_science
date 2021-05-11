@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "c:\\Users\\iodan\\CSE250\\env1\\Scripts\\python.exe",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "jupyter.jupyterServerType": "local"
 }
